@@ -41,45 +41,47 @@ Contributions are welcome! Please open an issue or submit a pull request if you'
 
 
 # frant page Studen-Study-Portal using python
-
-![Screenshot 2024-09-22 181540](https://github.com/user-attachments/assets/05851e9b-cc4c-4957-9f6a-29892ab721d8)
-
+![Screenshot 2024-09-23 004134](https://github.com/user-attachments/assets/1a2de158-bcdc-4f1e-ab6a-366d455559a9)
 
 # notes
 
-![Screenshot 2024-09-22 181603](https://github.com/user-attachments/assets/c823e89f-28a3-4a4d-9fb9-0e0ee9a4c5f6)
+![Screenshot 2024-09-23 004236](https://github.com/user-attachments/assets/8bc0deaf-a93c-467b-9905-32c896f1815b)
 
 # homework
-![Screenshot 2024-09-22 181658](https://github.com/user-attachments/assets/66f90e1c-c9d4-42b9-9e6a-e3e4b179a523)
+![Screenshot 2024-09-23 004258](https://github.com/user-attachments/assets/fd746609-1ac2-4031-9641-5f987bdce2cf)
 
 # youtube
-
-![Screenshot 2024-09-22 181716](https://github.com/user-attachments/assets/e6ecb083-614c-429f-b32b-e304b5e37e77)
+![Screenshot 2024-09-23 004322](https://github.com/user-attachments/assets/99df4a21-f328-4132-ab62-b318e840b780)
 
 # TO DO ( today's)
-![Screenshot 2024-09-22 181739](https://github.com/user-attachments/assets/f2056b69-ada1-45ab-91f3-f9346f5908aa)
+
+![Screenshot 2024-09-23 004339](https://github.com/user-attachments/assets/28067c8a-da4d-4844-80d3-052f1a480395)
+
 
  # Books
- ![Screenshot 2024-09-22 181826](https://github.com/user-attachments/assets/03e26d73-2388-4c5b-bdf1-c25540bba7ca)
+![Screenshot 2024-09-23 004406](https://github.com/user-attachments/assets/26f0c5a5-5582-4e5c-907d-df3f9d367e75)
+
+# Dictionary
+![Screenshot 2024-09-23 004430](https://github.com/user-attachments/assets/13f7c072-b3ce-4c8d-9b7b-24d8b26eee7f)
 
 # Wikipedia
-
- ![Screenshot 2024-09-22 181853](https://github.com/user-attachments/assets/2fafb723-b33e-48cd-9543-a4abe52bda09)
-
+![Screenshot 2024-09-23 004516](https://github.com/user-attachments/assets/c797d3b9-fee9-4dd5-99a1-e801b1075820)
 # Convesion 
 
-![Screenshot 2024-09-22 181922](https://github.com/user-attachments/assets/6c1aeedf-8dcf-427c-8c14-a25e446d397e)
+![Screenshot 2024-09-23 004541](https://github.com/user-attachments/assets/a6de0828-8127-4504-ab44-2b2f46f8dc5a)
 
 # profile
-![Screenshot 2024-09-22 181934](https://github.com/user-attachments/assets/4ce2a572-b4d4-469a-bbae-0a902ea14e15)
 
+![Screenshot 2024-09-23 004603](https://github.com/user-attachments/assets/de72df65-4798-4bb6-98cb-9dbcf90d1d30)
 
 # Register
-![Screenshot 2024-09-22 182013](https://github.com/user-attachments/assets/ae83a052-9627-43b8-88ee-eff4bf76782f)
+![Screenshot 2024-09-23 005118](https://github.com/user-attachments/assets/6eb61138-378a-40c2-b33e-2236f329f1fa)
+
 # login
 An image that is corrupted and can't be opened or viewed correctly?
 #
 
 
 # database table
-![Screenshot 2024-09-22 184629](https://github.com/user-attachments/assets/6e870318-f01f-4ae2-b915-7fa80856229d)
+![Screenshot 2024-09-23 005538](https://github.com/user-attachments/assets/0ee85321-aaab-47ad-ba45-593e806ab72b)
+
